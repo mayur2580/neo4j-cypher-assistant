@@ -1,4 +1,4 @@
-# 🧠 PDF → Neo4j Graph RAG Agent
+#  PDF → Neo4j Graph RAG Agent
 
 An intelligent Retrieval-Augmented Generation (RAG) system that transforms static PDF documents into a searchable knowledge graph using Neo4j and Large Language Models (LLMs).
 
