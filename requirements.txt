@@ -7,3 +7,4 @@ pdfplumber
 langchain-text-splitters
 sentence-transformers
 ipython
+groq
